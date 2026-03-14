@@ -1,16 +1,24 @@
 {
   "version": 1,
-  "base_track": "ココロノック（TVsize）",
+  "base_track": "ココロノック",
   "base_artist": "YuNi",
-  "createdAt": "2026-03-13T09:39:41.319016Z",
+  "createdAt": "2026-03-14T09:54:12.509205Z",
   "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ココロノック",
+      "artist": "YuNi",
+      "has_synced": true,
+      "path": "select/01_ココロノック_YuNi.lrc"
+    },
     {
       "id": "petitlyrics_1",
       "source": "petitlyrics",
-      "title": "ココロノック (TVsize)",
+      "title": "ココロノック",
       "artist": "YuNi",
       "has_synced": false,
-      "path": "select/pl_01_ココロノック_(TVsize)_YuNi.txt"
+      "path": "select/pl_01_ココロノック_YuNi.txt"
     }
   ]
 }
